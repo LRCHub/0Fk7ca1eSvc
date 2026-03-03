@@ -1,0 +1,344 @@
+{
+  "version": 1,
+  "base_track": "Flower Ring",
+  "base_artist": "ルールーシー=ルー(CV.下地 紫野)、ティア(CV.洲崎 綾)",
+  "createdAt": "2026-03-03T13:06:36.520555Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Flower Ring",
+      "artist": "ルールーシー=ルー(CV.下地 紫野)&ティア(CV.洲崎 綾)",
+      "has_synced": false,
+      "path": "select/01_Flower_Ring_ルールーシー=ルー(CV.下地_紫野)&ティア(CV.洲崎_綾).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Flower Ring - TV Size",
+      "artist": "Luu(CV.Shino Shimoji) feat. Tier(CV.Aya Suzaki)",
+      "has_synced": false,
+      "path": "select/02_Flower_Ring_-_TV_Size_Luu(CV.Shino_Shimoji)_feat._Tier(CV.Aya_Suzaki).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Flower Ring (TV Size)",
+      "artist": "Luu(CV.Shino Shimoji)",
+      "has_synced": false,
+      "path": "select/03_Flower_Ring_(TV_Size)_Luu(CV.Shino_Shimoji).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Flower Ring - TV Size",
+      "artist": "Luu",
+      "has_synced": false,
+      "path": "select/04_Flower_Ring_-_TV_Size_Luu.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Flower Ring",
+      "artist": "ルールーシー＝ルー(CV.下地 紫野) & ティア(CV.洲崎 綾)",
+      "has_synced": true,
+      "path": "select/05_Flower_Ring_ルールーシー=ルー(CV.下地_紫野)_&_ティア(CV.洲崎_綾).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mood Ring",
+      "artist": "Maddie & Tae",
+      "has_synced": true,
+      "path": "select/06_Mood_Ring_Maddie_&_Tae.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Golden Ring",
+      "artist": "George Jones",
+      "has_synced": false,
+      "path": "select/07_Golden_Ring_George_Jones.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Golden Ring",
+      "artist": "George Jones",
+      "has_synced": true,
+      "path": "select/08_Golden_Ring_George_Jones.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Golden Ring - Single Version",
+      "artist": "Tammy Wynette",
+      "has_synced": true,
+      "path": "select/09_Golden_Ring_-_Single_Version_Tammy_Wynette.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Golden Ring (Album Version)",
+      "artist": "Tammy Wynette",
+      "has_synced": true,
+      "path": "select/10_Golden_Ring_(Album_Version)_Tammy_Wynette.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ring On Her Finger, Time On Her Hands",
+      "artist": "Lee Greenwood",
+      "has_synced": false,
+      "path": "select/11_Ring_On_Her_Finger,_Time_On_Her_Hands_Lee_Greenwood.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ring On Her Finger, Time On Her Hands",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/12_Ring_On_Her_Finger,_Time_On_Her_Hands_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ring On Her Finger, Time On Her Hands (Album Version)",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/13_Ring_On_Her_Finger,_Time_On_Her_Hands_(Album_Version)_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ring of Fire",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/14_Ring_of_Fire_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ring of Fire",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/15_Ring_of_Fire_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Ring of Fire",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/16_Ring_of_Fire_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Ring of Fire",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/17_Ring_of_Fire_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Ring of Fire (Re-Recorded)",
+      "artist": "Johnny Cash",
+      "has_synced": false,
+      "path": "select/18_Ring_of_Fire_(Re-Recorded)_Johnny_Cash.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Ring of Fire (with The Royal Philharmonic Orchestra)",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/19_Ring_of_Fire_(with_The_Royal_Philharmonic_Orchestra)_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Something with a Ring to It",
+      "artist": "Mark Collie",
+      "has_synced": false,
+      "path": "select/20_Something_with_a_Ring_to_It_Mark_Collie.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Ring Ring",
+      "artist": "MIKA",
+      "has_synced": true,
+      "path": "select/21_Ring_Ring_MIKA.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Ring Ring (bonus track)",
+      "artist": "Mika",
+      "has_synced": true,
+      "path": "select/22_Ring_Ring_(bonus_track)_Mika.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Ring the Bell",
+      "artist": "YACHT",
+      "has_synced": false,
+      "path": "select/23_Ring_the_Bell_YACHT.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Flower Shops (feat. Morgan Wallen) [Acoustic]",
+      "artist": "ERNEST",
+      "has_synced": true,
+      "path": "select/24_Flower_Shops_(feat._Morgan_Wallen)_[Acoustic]_ERNEST.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Wildwood Flower",
+      "artist": "The Carter Family",
+      "has_synced": true,
+      "path": "select/25_Wildwood_Flower_The_Carter_Family.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Wildwood Flower (Album Version)",
+      "artist": "The Original Carter Family",
+      "has_synced": true,
+      "path": "select/26_Wildwood_Flower_(Album_Version)_The_Original_Carter_Family.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Lotus Flower",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/27_Lotus_Flower_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Lotus Flower (Jacques Greene Remix)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/28_Lotus_Flower_(Jacques_Greene_Remix)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Lotus Flower (Jacques Greene Rmx)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/29_Lotus_Flower_(Jacques_Greene_Rmx)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Lotus Flower - Jaques Green RMX",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/30_Lotus_Flower_-_Jaques_Green_RMX_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Lotus Flower (Jaques Green RMX)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/31_Lotus_Flower_(Jaques_Green_RMX)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Lotus Flower (SBTRKT Rmx)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/32_Lotus_Flower_(SBTRKT_Rmx)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Destroy The Flower",
+      "artist": "Lisa Germano",
+      "has_synced": true,
+      "path": "select/33_Destroy_The_Flower_Lisa_Germano.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "Flower",
+      "artist": "Lapalux",
+      "has_synced": true,
+      "path": "select/34_Flower_Lapalux.lrc"
+    },
+    {
+      "id": "lrclib_35",
+      "source": "lrclib",
+      "title": "Flower - Remastered",
+      "artist": "Liz Phair",
+      "has_synced": true,
+      "path": "select/35_Flower_-_Remastered_Liz_Phair.lrc"
+    },
+    {
+      "id": "lrclib_36",
+      "source": "lrclib",
+      "title": "Flower",
+      "artist": "Liz Phair",
+      "has_synced": true,
+      "path": "select/36_Flower_Liz_Phair.lrc"
+    },
+    {
+      "id": "lrclib_37",
+      "source": "lrclib",
+      "title": "Pluck a Flower",
+      "artist": "Loveboy",
+      "has_synced": true,
+      "path": "select/37_Pluck_a_Flower_Loveboy.lrc"
+    },
+    {
+      "id": "lrclib_38",
+      "source": "lrclib",
+      "title": "Blue Flower",
+      "artist": "Mazzy Star",
+      "has_synced": true,
+      "path": "select/38_Blue_Flower_Mazzy_Star.lrc"
+    },
+    {
+      "id": "lrclib_39",
+      "source": "lrclib",
+      "title": "Blue Flower (FM Broadcast The Metro Chicago 12th November 1994)",
+      "artist": "Mazzy Star",
+      "has_synced": false,
+      "path": "select/39_Blue_Flower_(FM_Broadcast_The_Metro_Chicago_12th_November_1994)_Mazzy_Star.txt"
+    },
+    {
+      "id": "lrclib_40",
+      "source": "lrclib",
+      "title": "Blue Flower (Live at The Metro, Chicago, 11/12/1994)",
+      "artist": "Mazzy Star",
+      "has_synced": false,
+      "path": "select/40_Blue_Flower_(Live_at_The_Metro,_Chicago,_11_12_1994)_Mazzy_Star.txt"
+    },
+    {
+      "id": "lrclib_41",
+      "source": "lrclib",
+      "title": "Dream Of A Young Girl As A Flower",
+      "artist": "Mercury Rev",
+      "has_synced": true,
+      "path": "select/41_Dream_Of_A_Young_Girl_As_A_Flower_Mercury_Rev.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Flower Ring",
+      "artist": "ルールーシー=ルー(CV.下地 紫野)&ティア(CV.洲崎 綾)",
+      "has_synced": false,
+      "path": "select/pl_01_Flower_Ring_ルールーシー=ルー(CV.下地_紫野)&ティア(CV.洲崎_綾).txt"
+    }
+  ]
+}
